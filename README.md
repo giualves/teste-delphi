@@ -1,5 +1,7 @@
 # teste-delphi
 
+Comandos para criar o banco de dados e inserir os registros necessários:
+
 DROP SCHEMA `testedelphi`;
 CREATE SCHEMA `testedelphi` ;
 use testedelphi;
