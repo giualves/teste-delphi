@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/24 01:39:01.000.916,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/24 04:46:14.000.662,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/09 02:03:14.000.304,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/09 02:03:26.000.983,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Admin\Documents\Embarcadero\Studio\Teste-Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/11/09 02:03:26.000.983,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Admin\Documents\Embarcadero\Studio\Teste-Delphi\Unit1.dfm</Transaction>
+    <Transaction>2022/11/09 02:03:36.000.182,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Admin\Documents\Embarcadero\Studio\Teste-Delphi\TesteDephi.dproj</Transaction>
+    <Transaction>2022/11/09 02:04:00.000.680,=C:\Users\Admin\Documents\Embarcadero\Studio\Teste-Delphi\udmConexao.pas</Transaction>
+    <Transaction>2022/11/09 02:04:19.000.223,C:\Users\Admin\Documents\Embarcadero\Studio\Teste-Delphi\Unit1.pas=C:\Users\Admin\Documents\Embarcadero\Studio\Teste-Delphi\uPedido.pas</Transaction>
+    <Transaction>2022/11/09 02:04:19.000.223,C:\Users\Admin\Documents\Embarcadero\Studio\Teste-Delphi\Unit1.dfm=C:\Users\Admin\Documents\Embarcadero\Studio\Teste-Delphi\uPedido.dfm</Transaction>
+    <Transaction>2022/11/10 21:01:03.000.429,=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\Teste-Delphi\Unit2.pas</Transaction>
+    <Transaction>2022/11/10 21:01:40.000.052,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\Teste-Delphi\Unit2.dfm=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\Teste-Delphi\uPesquisa.dfm</Transaction>
+    <Transaction>2022/11/10 21:01:40.000.052,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\Teste-Delphi\Unit2.pas=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\Teste-Delphi\uPesquisa.pas</Transaction>
+  </Transactions>
+</BorlandProject>
